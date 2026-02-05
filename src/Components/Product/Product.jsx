@@ -102,7 +102,7 @@ const initialProducts = {
     },
     {
       id: 9,
-      name: 'চান্দেরি শাড়ি ',
+      name: '1 NO চান্দেরি শাড়ি ',
       dec: 'সিল্ক এর শাড়ি ডিজিটাল প্রিন্ট ১২ হাত',
       price: 600,
       image: image9,
@@ -110,7 +110,7 @@ const initialProducts = {
     },
     {
       id: 10,
-      name: 'চান্দেরি শাড়ি ',
+      name: '2 NO চান্দেরি শাড়ি ',
       dec: 'সিল্ক এর শাড়ি ডিজিটাল প্রিন্ট ১২ হাত',
       price: 600,
       image: image10,
@@ -118,7 +118,7 @@ const initialProducts = {
     },
     {
       id: 11,
-      name: 'চান্দেরি শাড়ি ',
+      name: '3 NO চান্দেরি শাড়ি ',
       dec: 'সিল্ক এর শাড়ি ডিজিটাল প্রিন্ট ১২ হাত',
       price: 600,
       image: image11,
@@ -126,7 +126,7 @@ const initialProducts = {
     },
     {
       id: 12,
-      name: 'চান্দেরি শাড়ি ',
+      name: '4 NOচান্দেরি শাড়ি ',
       dec: ' সিল্ক এর শাড়ি ডিজিটাল প্রিন্ট ১২ হাত',
       price: 600,
       image: image12,
@@ -158,7 +158,7 @@ const initialProducts = {
     },
     {
       id: 16,
-      name: 'কাঞ্চি শাড়ি ',
+      name: '1 NO কাঞ্চি শাড়ি ',
       dec: ' সুতি শাড়ি রানিং ব্লাউজ সহ ১৪ হাত',
       price: 1550,
       image: image16,
@@ -166,7 +166,7 @@ const initialProducts = {
     },
     {
       id: 17,
-      name: 'কাঞ্চি শাড়ি ',
+      name: '2 NO কাঞ্চি শাড়ি ',
       dec: 'সুতি শাড়ি রানিং ব্লাউজ সহ ১৪ হাত',
       price: 1550,
       image: image17,
@@ -174,7 +174,7 @@ const initialProducts = {
     },
     {
       id: 18,
-      name: 'কাঞ্চি শাড়ি ',
+      name: '3 NO কাঞ্চি শাড়ি ',
       dec: ' সুতি শাড়ি রানিং ব্লাউজ সহ ১৪ হাত',
       price: 1550,
       image: image18,
@@ -182,7 +182,7 @@ const initialProducts = {
     },
     {
       id: 19,
-      name: 'রেম্বু শাড়ি  ',
+      name: '1 NO রেম্বু শাড়ি  ',
       dec: 'সুতি শাড়ি রানিং ব্লাউজ সহ ১৪ হাত+',
       price: 1190,
       image: image19,
@@ -190,7 +190,7 @@ const initialProducts = {
     },
     {
       id: 20,
-      name: 'রেম্বু শাড়ি  ',
+      name: '2 NO রেম্বু শাড়ি  ',
       dec: 'সুতি শাড়ি রানিং ব্লাউজ সহ ১৪ হাত+',
       price: 1190,
       image: image20,
