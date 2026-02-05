@@ -410,7 +410,7 @@ function ProductPage() {
                       className="w-full bg-gradient-to-r from-rose-600 to-pink-500 text-white font-semibold py-2 sm:py-3 rounded-lg hover:from-rose-700 hover:to-pink-600 transition-all duration-300 transform hover:scale-[1.02] shadow-md hover:shadow-lg flex items-center justify-center gap-1 sm:gap-2 text-xs sm:text-sm md:text-base mt-auto"
                     >
                       <ShoppingCart size={14} />
-                      কার্টে যোগ করুন
+                      অর্ডার করুন
                     </button>
                   </div>
                 </div>
